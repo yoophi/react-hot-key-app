@@ -1,0 +1,28 @@
+export const defaultCategoriesProducts = {
+  coffee: ['Americano', 'Latte', 'Mocha', 'Espresso', 'Cappuccino', 'Cold Brew', 'Flat White', 'Macchiato'],
+  tea: ['Green Tea', 'Black Tea', 'Herbal Tea', 'Chai Tea', 'Oolong Tea', 'Earl Grey', 'Chamomile', 'Peppermint Tea'],
+  bakery: [
+    'Croissant',
+    'Bagel',
+    'Donut',
+    'Muffin',
+    'Danish',
+    'Scone',
+    'Cinnamon Roll',
+    'Biscotti',
+    'Brownie',
+    'Cookie',
+  ],
+  etc: [
+    'Ice Cream',
+    'Cake',
+    'Chocolate',
+    'Smoothie',
+    'Milkshake',
+    'Affogato',
+    'Parfait',
+    'Pudding',
+    'Cheesecake',
+    'Tiramisu',
+  ],
+};
